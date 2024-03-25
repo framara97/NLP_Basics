@@ -1,1 +1,2 @@
 Hi!
+Added a new feature
